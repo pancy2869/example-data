@@ -35,7 +35,7 @@ BlackFriday.csv       - This file contains 550,000 observations about the black 
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@neeruap2001/data-science-blog-post-ed1052e5014e).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
